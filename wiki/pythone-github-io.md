@@ -9,4 +9,4 @@ Afer classic 1-3 we moved on to pythone.github.io revival. We might be planning 
   Before replacing revival with classic, we decided that we want a way to jump to and from classic. If you use the konami code, you can switch between the two
 ## NEW 404 PAGES
 There are now 404 pages for both revival and classic!
-Try them out at: pythone.github.io/lalla or https://pythone.github.io/old_pythone.github.io/lalla
+Try them out at: https://pythone.github.io/lalla or https://pythone.github.io/old_pythone.github.io/lalla
